@@ -30,9 +30,9 @@ Throughout the project, I found the following websites to be super helpful:
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)  
   (A comprehensive guide on using CSS Grid to create the tile layout.)
 - [What is a content delivery network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/#:~:text=A%20content%20delivery%20network%20(CDN)%20is%20a%20geographically%20distributed%20group,stylesheets%2C%20images%2C%20and%20videos.)
-    (An explanation on what a CDN is.)
+  (An explanation on what a CDN is.)
 - [EX6 Array](https://www.geeksforgeeks.org/es6-array/)
-    (A list of different Native Array ES6 functions.)
+  (A list of different Native Array ES6 functions.)
 
 
 # Future Work
