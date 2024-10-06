@@ -4,9 +4,7 @@ In this project, I developed a simple Memory Game using JavaScript to enhance my
 
 This project was a practical way to demonstrate my knowledge of JavaScript syntax and how it can be applied in real-world applications. By writing this game, I improved my skills in creating dynamic user interfaces and handling user interactions programmatically.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/D3-ywtdFB70)
 
 # Development Environment
 
